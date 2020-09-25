@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/apiplayground/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/apiplayground/static/js/main.e8e3feaa.chunk.js",
+    "main.js.map": "/apiplayground/static/js/main.e8e3feaa.chunk.js.map",
+    "runtime-main.js": "/apiplayground/static/js/runtime-main.e6250537.js",
+    "runtime-main.js.map": "/apiplayground/static/js/runtime-main.e6250537.js.map",
+    "static/js/2.7a8b8b7b.chunk.js": "/apiplayground/static/js/2.7a8b8b7b.chunk.js",
+    "static/js/2.7a8b8b7b.chunk.js.map": "/apiplayground/static/js/2.7a8b8b7b.chunk.js.map",
+    "index.html": "/apiplayground/index.html",
+    "precache-manifest.2af76d45a10e93f43a93dd9375995cc4.js": "/apiplayground/precache-manifest.2af76d45a10e93f43a93dd9375995cc4.js",
+    "service-worker.js": "/apiplayground/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/apiplayground/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7a8b8b7b.chunk.js.LICENSE.txt": "/apiplayground/static/js/2.7a8b8b7b.chunk.js.LICENSE.txt",
+    "static/media/covid.jpg": "/apiplayground/static/media/covid.26f042ce.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6250537.js",
+    "static/js/2.7a8b8b7b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e8e3feaa.chunk.js"
+  ]
+}
