@@ -29,7 +29,7 @@ class Covid extends React.Component{
     }
     render(){
         return(
-            <div style={{position:"fixed",left:"10%"}}>
+            <div style={{position:"absolute",left:"10%"}}>
                 <Covidcard header="Infected" color="card text-white bg-danger mb-3" number={this.state.infected} date={this.state.date}/>
                 <Covidcard header="Recovered" color="card text-white bg-success mb-3" number={this.state.recovered} date={this.state.date}/>
                 <Covidcard header="Death" color="card text-white bg-dark mb-3" number={this.state.death} date={this.state.date}/>
